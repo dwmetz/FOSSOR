@@ -1,21 +1,23 @@
-```
- ███████╗ ██████╗ ███████╗███████╗ ██████╗ ██████╗
- ██╔════╝██╔═══██╗██╔════╝██╔════╝██╔═══██╗██╔══██╗
- █████╗  ██║   ██║███████╗███████╗██║   ██║██████╔╝
- ██╔══╝  ██║   ██║╚════██║╚════██║██║   ██║██╔══██╗
- ██║     ╚██████╔╝███████║███████║╚██████╔╝██║  ██║
- ╚═╝      ╚═════╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝
-```
+<div align="center">
+ <h1>
+    FOSSOR
+  </h1>
+  
+  <h3>
+      Federated Open-Source Sample Search & Object Retriever
+   </h3>
+<p>
+<p>
+</div>
 
-**Federated Open-Source Sample Search & Object Retriever**
-
-A utility for looking up malware hashes across multiple threat intelligence sources. Simply run FOSSOR and provide it with a single hash or a text file (.txt or .csv) and instantly see which sources have intel on them -- with optional sample download.
+> A utility for looking up malware hashes across multiple threat intelligence sources. Simply run FOSSOR and provide it with a single hash or a text file (.txt or .csv) and instantly see which sources have intel on them -- with optional sample download.
 
 <div align="center">
   <img style="padding:0;vertical-align:bottom;" height="575" width="872" src="images/screenshot.png"/>
 
   <div align="left">
   <h4>
+
 ## Features
 
 - **Multi-source lookup** -- queries MalwareBazaar, VirusTotal, and AlienVault OTX in a single run
